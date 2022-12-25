@@ -1,0 +1,8 @@
+@media(max-width:1350px){
+.saidbar{
+    width: 100%;
+    height: 100px;
+    z-index: -1;
+    
+}
+}
